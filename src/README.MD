@@ -5,3 +5,5 @@ This is a React project with functional approach. It will synchronize data to Go
 - Create new student info(id, name, email, phone and city)
 - Update student info
 
+### Run
+npm start
